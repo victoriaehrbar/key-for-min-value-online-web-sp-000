@@ -10,5 +10,4 @@ hash_name.each do |key, value|
   if min_value == nil
     min_key = key
     min_value = value
-
 end
