@@ -13,3 +13,7 @@ hash_name.each do |key, value|
 end
 
 end
+end
+
+min_key
+end
